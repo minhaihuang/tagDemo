@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="tagDemo"
+  id="myeclipse.1451792930401"
+  context-root="/tagDemo"
+  j2ee-spec="5.0"
+  archive="tagDemo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
